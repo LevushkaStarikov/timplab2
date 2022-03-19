@@ -1,12 +1,12 @@
 #include <iostream>
 #include <string>
 
-
-int main()
+int 
+main()
 {
-std::string name;
-//напортачилНомер2
-    std::cin >> name;
-   std::cout << "Hello, world from " << name;
-    return 0;
+  std::string name;
+  //напортачилНомер2
+  std::cin >> name;
+  std::cout << "Hello, world from " << name;
+  return 0;
 }
