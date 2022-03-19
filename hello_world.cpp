@@ -5,7 +5,7 @@ int
 main()
 {
   std::string name;
-  //коментарий
+  //напортачилНомер2
   std::cin >> name;
   std::cout << "Hello, world from " << name;
   return 0;
