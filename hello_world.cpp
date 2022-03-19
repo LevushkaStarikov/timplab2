@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int 
+int
 main()
 {
   std::string name;
